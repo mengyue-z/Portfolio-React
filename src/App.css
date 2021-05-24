@@ -59,7 +59,6 @@ footer {
 
 .card {
   background-color: #F4F4F2 !important;
-  position:absolute;
   display:flex;
   margin-top:2rem;
   flex-direction: column;
