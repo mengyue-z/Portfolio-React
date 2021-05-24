@@ -133,3 +133,8 @@ a{
     margin-left:0;
   }
 }
+
+.row {
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+}
