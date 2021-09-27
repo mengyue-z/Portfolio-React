@@ -18,7 +18,7 @@ function ContactCard() {
         <a class="mr-2" href="https://www.linkedin.com/in/mengyue-zhang/" target="blank"><TiSocialLinkedinCircular size="40" className = "icons"/></a>
         <a href="https://github.com/mengyue-z" target="blank"><VscGithub className = "icons" size="30"/></a>
       </Card.Text>
-      <Button variant = "outline-dark" href="https://drive.google.com/file/d/1xY2hOzm-eGucoKtDDHyfKss3T5bCYGgO/view?usp=sharing" target="_blank">View My Resume</Button>
+      <Button variant = "outline-dark" href="https://drive.google.com/file/d/1zxjciE4sE_cicu0VZU4fhcCvkNTY-aGR/view?usp=sharing" target="_blank">View My Resume</Button>
     </Card.Body>
   </Card>
   </Col>
